@@ -1,6 +1,12 @@
 Changelog
 =========
 
+[Unreleased]
+-----
+
+## Bugfix
+ * Blur the input field on hiding the calendar (#2594)
+
 1.9.0
 -----
 
