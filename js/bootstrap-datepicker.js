@@ -510,6 +510,8 @@
 
 			if (this.o.forceParse && this.inputField.val())
 				this.setValue();
+
+			this.inputField.blur();
 			this._trigger('hide');
 			return this;
 		},
