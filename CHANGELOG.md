@@ -6,7 +6,7 @@ Changelog
 
 ## Bugfix
  * Blur the input field on hiding the calendar (#2594)
- * Replaced deprecated jQuery shorthand functions 'blur', and 'change'.
+ * Replaced deprecated jQuery shorthand functions `blur()`, `change()`, and `focus()`.
 
 1.9.0
 -----

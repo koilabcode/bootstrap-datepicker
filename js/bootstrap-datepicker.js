@@ -1242,7 +1242,7 @@
 			}
 
 			if (this.picker.is(':visible') && this._focused_from){
-				this._focused_from.focus();
+				this._focused_from.trigger('focus');
 			}
 			delete this._focused_from;
 		},
